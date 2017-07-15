@@ -1,0 +1,18 @@
+{
+  "name": "lesstutorial",
+  "version": "1.0.0",
+  "description": "Tutorial less with grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/.bin/grunt"
+  },
+  "author": "Alan Brazil de Almeida Lins",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
